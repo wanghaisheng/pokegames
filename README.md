@@ -1,3 +1,5 @@
+2024-10-17
+
 <div align="center">
   <img align="center" width="600" src="https://github.com/radespratama/pokegames/blob/main/public/static/pokegames-banner.avif?raw=true" />
   <h3 align="center">Pokegames</h3>
